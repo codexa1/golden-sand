@@ -1,14 +1,14 @@
 window.DATA={brand:"GOLDEN SAND",wa:"201098380298",phone:"+20 109 838 0298",pass:"1234",
 tours:[
-{id:"giza",cat:"pyr",art:0,on:true,price:40,dur:"7–8 h",img:"",
+{id:"giza",cat:"pyr",art:0,on:true,price:45,dur:"7–8 h",img:"",
  title:{en:"Pyramids & Egyptian Museum",ar:"الأهرامات والمتحف المصري"},
  desc:{en:"The Great Pyramids, the Sphinx and the treasures of the pharaohs in one classic day.",ar:"الأهرامات وأبو الهول وكنوز الفراعنة في يوم كلاسيكي واحد."},
  hl:{en:["The Great Pyramid of Khufu, Khafre and Menkaure","The Great Sphinx and the Valley Temple","Panoramic viewpoint over the Giza plateau","Royal treasures and mummies at the Egyptian Museum"],ar:["هرم خوفو وخفرع ومنكاورع","أبو الهول ومعبد الوادي","نقطة بانورامية على هضبة الجيزة","كنوز ملكية ومومياوات بالمتحف المصري"]}},
-{id:"dahshur",cat:"pyr",art:1,on:true,price:45,dur:"4–5 h",img:"",
+{id:"dahshur",cat:"pyr",art:1,on:true,price:60,dur:"4–5 h",img:"",
  title:{en:"Dahshur",ar:"دهشور"},
  desc:{en:"The Red and Bent Pyramids in a peaceful desert, far from the crowds.",ar:"الهرم الأحمر والمنحني في صحراء هادئة بعيداً عن الزحام."},
  hl:{en:["The Red Pyramid, the first true smooth-sided pyramid","The Bent Pyramid","Peaceful desert, far from the crowds"],ar:["الهرم الأحمر أول هرم أملس حقيقي","الهرم المنحني","صحراء هادئة بعيداً عن الزحام"]}},
-{id:"cairo",cat:"city",art:2,on:true,price:40,dur:"6–7 h",img:"",
+{id:"cairo",cat:"city",art:2,on:true,price:45,dur:"6–7 h",img:"",
  title:{en:"Historic Cairo",ar:"القاهرة التاريخية"},
  desc:{en:"The Citadel, grand mosques, Coptic Cairo and the famous Khan el-Khalili bazaar.",ar:"القلعة والمساجد الكبرى والقاهرة القبطية وخان الخليلي."},
  hl:{en:["Saladin's Citadel and the Mosque of Muhammad Ali","Coptic Cairo","Khan el-Khalili bazaar"],ar:["قلعة صلاح الدين ومسجد محمد علي","القاهرة القبطية","سوق خان الخليلي"]}},
@@ -25,6 +25,7 @@ tours:[
  desc:{en:"Tell us where you want to go. We shape the day around your wish and agree the price with you on WhatsApp.",ar:"قل لنا أين تريد الذهاب. نصمم اليوم حسب رغبتك ونتفق معك على السعر عبر واتساب."},
  hl:{en:["Any destination in Egypt","Your own private car","Price agreed with you on WhatsApp"],ar:["أي وجهة في مصر","سيارتك الخاصة","نتفق معك على السعر عبر واتساب"]}}],
 addons:[
-{id:"camel",price:15,on:true,cats:["pyr"],name:{en:"Camel or horse ride",ar:"ركوب جمل أو حصان"}},
-{id:"photo",price:40,on:true,cats:["pyr"],name:{en:"Professional photographer",ar:"مصور فوتوغرافي"}}],
+{id:"guide",price:30,on:true,name:{en:"Licensed, experienced guide",ar:"مرشد سياحي مرخص"}},
+{id:"camel",price:10,on:true,cats:["pyr"],name:{en:"Camel or horse ride",ar:"ركوب جمل أو حصان"}},
+{id:"photo",price:10,on:true,cats:["pyr"],name:{en:"Professional photographer",ar:"مصور فوتوغرافي"}}],
 reviews:[{n:"Sarah",c:"UK",t:"A perfect day. Our driver was on time and so kind."},{n:"Marco",c:"Italy",t:"Dahshur was empty and magical. Highly recommend."},{n:"Anna",c:"Germany",t:"Clear prices, no surprises. Great value!"},{n:"Daniel",c:"USA",t:"The best way to see Cairo without stress."}]};
