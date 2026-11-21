@@ -131,6 +131,15 @@ footer{background:#f3e5c6;border-top:1px solid var(--bd)}
 .intro h2{font-size:clamp(1.8rem,4.6vw,3.2rem);color:var(--tx)}
 /* WhatsApp button: no glowing ring */
 .wa{animation:none;box-shadow:0 6px 18px rgba(0,0,0,.25)}
+
 /* ===== MOBILE FIX ===== */
 #h.s{backdrop-filter:none;-webkit-backdrop-filter:none;background:rgba(255,250,240,.97)}
 @media(max-width:860px){nav a{white-space:nowrap}.logo{font-size:1rem;letter-spacing:.14em}}
+
+/* ===== MOBILE IMAGES FIX ===== */
+@media(max-width:860px){
+.ph .w.tw{grid-template-columns:1fr!important}
+.ph .w.tw>.card{height:260px!important}
+.th{height:55vh;min-height:360px}
+.bgp img,.bgp video{object-position:50% 50%}
+}
