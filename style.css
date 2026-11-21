@@ -143,3 +143,11 @@ footer{background:#f3e5c6;border-top:1px solid var(--bd)}
 .th{height:55vh;min-height:360px}
 .bgp img,.bgp video{object-position:50% 50%}
 }
+/* ===== MOBILE HERO SIZE ===== */
+@media(max-width:860px){
+.hero{height:68svh;min-height:460px}
+.ht{padding-top:60px}
+.ht h1{font-size:2.2rem}
+.ht p{font-size:1rem}
+.bgp img,.bgp video{object-position:50% 50%}
+}
