@@ -1,4 +1,4 @@
-window.DATA={brand:"GOLDEN SAND",wa:"201098380298",phone:"+20 109 838 0298",pass:"1234",
+window.DATA={brand:"CAIRO AIRPORT LIMO CAR SERVICE",wa:"201098380298",phone:"+20 109 838 0298",pass:"1234",
 tours:[
 {id:"giza",cat:"pyr",art:0,on:true,price:45,dur:"7–8 h",img:"",
  title:{en:"Pyramids & Egyptian Museum",ar:"الأهرامات والمتحف المصري"},
@@ -22,7 +22,7 @@ tours:[
  hl:{en:["Wadi El Rayan waterfalls","Lake Qarun shore","Tunis village pottery"],ar:["شلالات وادي الريان","شاطئ بحيرة قارون","فخار قرية تونس"]}},
 {id:"custom",cat:"custom",art:6,custom:true,on:true,price:0,dur:"Flexible",img:"",
  title:{en:"Your Own Trip",ar:"رحلتك الخاصة"},
- desc:{en:"Tell us where you want to go. We shape the day around your wish and agree the price with you on WhatsApp.",ar:"قل لنا أين تريد الذهاب. نصمم اليوم حسب رغبتك ونتفق معك على السعر عبر واتساب."},
+ desc:{en:"Tell us where you want to go in Egypt. We plan your private car trip with a driver and agree the price with you on WhatsApp.",ar:"قل لنا أين تريد الذهاب. نصمم اليوم حسب رغبتك ونتفق معك على السعر عبر واتساب."},
  hl:{en:["Any destination in Egypt","Your own private car","Price agreed with you on WhatsApp"],ar:["أي وجهة في مصر","سيارتك الخاصة","نتفق معك على السعر عبر واتساب"]}}],
 addons:[
 {id:"guide",price:30,on:true,name:{en:"Licensed, experienced guide",ar:"مرشد سياحي مرخص"}},
